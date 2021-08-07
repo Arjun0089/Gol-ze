@@ -1,6 +1,10 @@
 # Free-VPS
+
 <h2 align="center">
-THIS VM IS MADE BY L3M0N CAO!
+Run Windows 10 only using Github!
+</h2>
+<h2 align="center">
+Made By L3m0n Cao.
 </h2>
 <p align="center">
 <a href="https://github.com/Rem0n"><img title="Rem0n" src="https://img.shields.io/badge/Github-Rem0n-yellow"></a>
