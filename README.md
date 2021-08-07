@@ -20,7 +20,7 @@ THIS VM IS MADE BY L3M0N CAO!
 
 5. If you see something like `tcp://#.tcp.ngrok.io:#####` (e.g: `tcp://0.tcp.ngrok.io:17390`), that means that its set up properly! Remove the `tcp://` and Connect with these details:
 
-- Username: `L3m0nAdmin` 
+- Username: `runneradmin` 
 
 - Password: `Sub2L3m0nCao`
 
