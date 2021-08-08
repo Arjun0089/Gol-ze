@@ -30,4 +30,4 @@ Made By L3m0n Cao.
 
 - Password: `Sub2L3m0nCao`
 
-7. Your all setup!
+7. Your all setup! The VM will only stay up for 6 hours.
