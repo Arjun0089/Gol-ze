@@ -19,6 +19,8 @@ YT TUTORIAL!! https://www.youtube.com/watch?v=Y-sYDOhnhwI
 
 ### ENG
 
+**WARNING! This is only for edu purposes**
+
 1. FORK THIS REPOSITORY.
 
 2. Make a [Ngrok](https://dashboard.ngrok.com/) Account (https://dashboard.ngrok.com/)
